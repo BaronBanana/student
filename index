@@ -1,0 +1,46 @@
+<!-- Write your code here -->
+<!--
+	Student Name: Robert Cabamalan
+	File Name: template.html
+	Date: 09/13/2020
+-->
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+
+<!-- 
+  Head I guess
+-->
+
+<title>Corgis Anonymous Home</title>
+<body>
+<!--
+	Header Template
+-->
+<header>
+	<h1>Corgis Anonymous</h1>
+</header>
+
+<nav>
+  <p>Home &nbsp; &#9632; &nbsp;
+Link 1 &nbsp; &#9632; &nbsp;
+Link 2 &nbsp; &#9632; &nbsp; 
+Link 3 </p>
+</nav>
+
+
+<!--
+	The purpose of this main element is to show awesome dog pictures
+-->
+
+<main>
+
+	<p>I'm not sure what meaningful content I'm supposed to put here, it's a little late and I've been slamming all my crunch time on catching up.  Thankfully, I'm almost done and all my professors are extremely understanding</p>
+
+</main>
+
+<footer>
+	<p>Add contact information here</p>
+	<p>&copy; Copyright 2021.  All Rights Reserved.</p>
+</footer>
+</body>
